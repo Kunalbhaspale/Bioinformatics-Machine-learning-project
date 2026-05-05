@@ -1,0 +1,1 @@
+gene,tumor_mean,normal_mean,tumor_std,normal_std,log2_fold_change,fold_change,pvalue_ttest,pvalue_mw,t_statistic,padj_ttest,padj_mw,significant,regulation
