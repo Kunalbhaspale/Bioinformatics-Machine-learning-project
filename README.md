@@ -7,7 +7,7 @@ This project implements a comprehensive bioinformatics pipeline to identify nove
 
 ## Author
 **Urmeshree Magesh**  
-May 2022 - Aug 2022
+september 2025 - june 2026
 
 ## Project Goals
 1. Identify differentially expressed genes (DEGs) associated with breast cancer progression
