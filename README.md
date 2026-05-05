@@ -6,7 +6,8 @@ A Bioinformatics and Machine Learning Approach for Differential Gene Expression 
 This project implements a comprehensive bioinformatics pipeline to identify novel prognostic biomarkers for breast cancer using RNA-seq data analysis based on The Cancer Genome Atlas (TCGA-BRCA) methodology.
 
 ## Author
-**Urmeshree Magesh**  
+**Kunal C. Bhaspale**  
+Genome Analyst - 4basecare precision health pvt.ltd benglore
 september 2025 - june 2026
 
 ## Project Goals
