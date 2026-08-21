@@ -1,0 +1,121 @@
+sample_id,sample_type,tissue_type,patient_id,age,gender,vital_status,days_to_death,days_to_last_followup,tumor_stage,er_status,pr_status,her2_status
+TCGA-BRCA-NT-001,Normal,Normal Tissue,PATIENT-001,73,Female,Alive,,1195,,,,
+TCGA-BRCA-NT-002,Normal,Normal Tissue,PATIENT-002,55,Female,Alive,,430,,,,
+TCGA-BRCA-NT-003,Normal,Normal Tissue,PATIENT-003,45,Female,Dead,,230,,,,
+TCGA-BRCA-NT-004,Normal,Normal Tissue,PATIENT-004,56,Female,Alive,,3585,,,,
+TCGA-BRCA-NT-005,Normal,Normal Tissue,PATIENT-005,72,Female,Alive,,1284,,,,
+TCGA-BRCA-NT-006,Normal,Normal Tissue,PATIENT-006,46,Female,Alive,3004.0,574,,,,
+TCGA-BRCA-NT-007,Normal,Normal Tissue,PATIENT-007,62,Female,Dead,,3105,,,,
+TCGA-BRCA-NT-008,Normal,Normal Tissue,PATIENT-008,37,Female,Dead,,2988,,,,
+TCGA-BRCA-NT-009,Normal,Normal Tissue,PATIENT-009,73,Female,Alive,,2161,,,,
+TCGA-BRCA-NT-010,Normal,Normal Tissue,PATIENT-010,43,Female,Alive,,2239,,,,
+TCGA-BRCA-NT-011,Normal,Normal Tissue,PATIENT-011,41,Female,Alive,,134,,,,
+TCGA-BRCA-NT-012,Normal,Normal Tissue,PATIENT-012,48,Female,Alive,,3559,,,,
+TCGA-BRCA-NT-013,Normal,Normal Tissue,PATIENT-013,36,Female,Alive,,1600,,,,
+TCGA-BRCA-NT-014,Normal,Normal Tissue,PATIENT-014,52,Female,Alive,,2081,,,,
+TCGA-BRCA-NT-015,Normal,Normal Tissue,PATIENT-015,70,Female,Alive,,555,,,,
+TCGA-BRCA-NT-016,Normal,Normal Tissue,PATIENT-016,48,Female,Alive,2443.0,2867,,,,
+TCGA-BRCA-NT-017,Normal,Normal Tissue,PATIENT-017,52,Female,Alive,,2364,,,,
+TCGA-BRCA-NT-018,Normal,Normal Tissue,PATIENT-018,63,Female,Alive,2668.0,1467,,,,
+TCGA-BRCA-NT-019,Normal,Normal Tissue,PATIENT-019,35,Female,Alive,1262.0,1622,,,,
+TCGA-BRCA-NT-020,Normal,Normal Tissue,PATIENT-020,51,Female,Alive,,478,,,,
+TCGA-BRCA-TP-001,Tumor,Primary Tumor,PATIENT-021,42,Female,Dead,879.0,3077,Stage I,Positive,Positive,Positive
+TCGA-BRCA-TP-002,Tumor,Primary Tumor,PATIENT-022,56,Female,Alive,,1670,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-003,Tumor,Primary Tumor,PATIENT-023,48,Female,Alive,,970,Stage I,Positive,Negative,Negative
+TCGA-BRCA-TP-004,Tumor,Primary Tumor,PATIENT-024,66,Female,Alive,,2890,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-005,Tumor,Primary Tumor,PATIENT-025,49,Female,Alive,,3342,Stage II,Positive,Positive,Positive
+TCGA-BRCA-TP-006,Tumor,Primary Tumor,PATIENT-026,76,Female,Dead,1697.0,3160,Stage IV,Negative,Positive,Negative
+TCGA-BRCA-TP-007,Tumor,Primary Tumor,PATIENT-027,62,Female,Alive,,1596,Stage II,Negative,Positive,Negative
+TCGA-BRCA-TP-008,Tumor,Primary Tumor,PATIENT-028,75,Female,Dead,1382.0,3530,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-009,Tumor,Primary Tumor,PATIENT-029,58,Female,Alive,,2098,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-010,Tumor,Primary Tumor,PATIENT-030,46,Female,Alive,,3557,Stage III,Positive,Positive,Negative
+TCGA-BRCA-TP-011,Tumor,Primary Tumor,PATIENT-031,62,Female,Dead,1689.0,954,Stage II,Positive,Negative,Negative
+TCGA-BRCA-TP-012,Tumor,Primary Tumor,PATIENT-032,66,Female,Alive,,1833,Stage II,Negative,Positive,Positive
+TCGA-BRCA-TP-013,Tumor,Primary Tumor,PATIENT-033,58,Female,Dead,297.0,3129,Stage II,Positive,Negative,Negative
+TCGA-BRCA-TP-014,Tumor,Primary Tumor,PATIENT-034,63,Female,Alive,,1894,Stage III,Positive,Negative,Negative
+TCGA-BRCA-TP-015,Tumor,Primary Tumor,PATIENT-035,66,Female,Alive,,1834,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-016,Tumor,Primary Tumor,PATIENT-036,62,Female,Alive,,2620,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-017,Tumor,Primary Tumor,PATIENT-037,82,Female,Alive,,1116,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-018,Tumor,Primary Tumor,PATIENT-038,66,Female,Alive,,3162,Stage II,Positive,Negative,Negative
+TCGA-BRCA-TP-019,Tumor,Primary Tumor,PATIENT-039,67,Female,Dead,727.0,686,Stage IV,Positive,Negative,Negative
+TCGA-BRCA-TP-020,Tumor,Primary Tumor,PATIENT-040,59,Female,Alive,,198,Stage IV,Negative,Positive,Negative
+TCGA-BRCA-TP-021,Tumor,Primary Tumor,PATIENT-041,75,Female,Alive,,260,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-022,Tumor,Primary Tumor,PATIENT-042,37,Female,Dead,500.0,739,Stage III,Positive,Positive,Negative
+TCGA-BRCA-TP-023,Tumor,Primary Tumor,PATIENT-043,72,Female,Alive,,2377,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-024,Tumor,Primary Tumor,PATIENT-044,62,Female,Alive,,3026,Stage II,Negative,Positive,Negative
+TCGA-BRCA-TP-025,Tumor,Primary Tumor,PATIENT-045,83,Female,Alive,,116,Stage IV,Positive,Negative,Negative
+TCGA-BRCA-TP-026,Tumor,Primary Tumor,PATIENT-046,71,Female,Dead,2427.0,3520,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-027,Tumor,Primary Tumor,PATIENT-047,55,Female,Alive,,3075,Stage IV,Negative,Negative,Negative
+TCGA-BRCA-TP-028,Tumor,Primary Tumor,PATIENT-048,37,Female,Dead,1995.0,2833,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-029,Tumor,Primary Tumor,PATIENT-049,36,Female,Alive,,884,Stage III,Positive,Negative,Positive
+TCGA-BRCA-TP-030,Tumor,Primary Tumor,PATIENT-050,60,Female,Alive,,1990,Stage II,Positive,Negative,Negative
+TCGA-BRCA-TP-031,Tumor,Primary Tumor,PATIENT-051,54,Female,Alive,,2468,Stage I,Positive,Positive,Positive
+TCGA-BRCA-TP-032,Tumor,Primary Tumor,PATIENT-052,68,Female,Alive,,933,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-033,Tumor,Primary Tumor,PATIENT-053,56,Female,Dead,2461.0,2717,Stage I,Positive,Positive,Positive
+TCGA-BRCA-TP-034,Tumor,Primary Tumor,PATIENT-054,67,Female,Alive,,2411,Stage III,Positive,Negative,Negative
+TCGA-BRCA-TP-035,Tumor,Primary Tumor,PATIENT-055,64,Female,Alive,,146,Stage III,Positive,Positive,Positive
+TCGA-BRCA-TP-036,Tumor,Primary Tumor,PATIENT-056,53,Female,Dead,756.0,219,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-037,Tumor,Primary Tumor,PATIENT-057,57,Female,Dead,1250.0,3564,Stage III,Positive,Positive,Positive
+TCGA-BRCA-TP-038,Tumor,Primary Tumor,PATIENT-058,82,Female,Alive,,587,Stage IV,Positive,Negative,Negative
+TCGA-BRCA-TP-039,Tumor,Primary Tumor,PATIENT-059,63,Female,Alive,,2394,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-040,Tumor,Primary Tumor,PATIENT-060,62,Female,Alive,,1192,Stage I,Positive,Positive,Positive
+TCGA-BRCA-TP-041,Tumor,Primary Tumor,PATIENT-061,60,Female,Alive,,2579,Stage III,Positive,Negative,Positive
+TCGA-BRCA-TP-042,Tumor,Primary Tumor,PATIENT-062,39,Female,Alive,,3271,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-043,Tumor,Primary Tumor,PATIENT-063,39,Female,Dead,615.0,3187,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-044,Tumor,Primary Tumor,PATIENT-064,58,Female,Dead,2031.0,2837,Stage III,Positive,Positive,Negative
+TCGA-BRCA-TP-045,Tumor,Primary Tumor,PATIENT-065,35,Female,Alive,,1540,Stage III,Positive,Negative,Negative
+TCGA-BRCA-TP-046,Tumor,Primary Tumor,PATIENT-066,84,Female,Alive,,2182,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-047,Tumor,Primary Tumor,PATIENT-067,75,Female,Alive,,3367,Stage III,Positive,Positive,Negative
+TCGA-BRCA-TP-048,Tumor,Primary Tumor,PATIENT-068,70,Female,Alive,,3565,Stage II,Positive,Negative,Positive
+TCGA-BRCA-TP-049,Tumor,Primary Tumor,PATIENT-069,83,Female,Alive,,2243,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-050,Tumor,Primary Tumor,PATIENT-070,59,Female,Dead,972.0,1921,Stage IV,Negative,Negative,Negative
+TCGA-BRCA-TP-051,Tumor,Primary Tumor,PATIENT-071,83,Female,Dead,1735.0,495,Stage IV,Positive,Negative,Negative
+TCGA-BRCA-TP-052,Tumor,Primary Tumor,PATIENT-072,53,Female,Alive,,1490,Stage I,Negative,Positive,Negative
+TCGA-BRCA-TP-053,Tumor,Primary Tumor,PATIENT-073,57,Female,Alive,,1267,Stage III,Positive,Positive,Negative
+TCGA-BRCA-TP-054,Tumor,Primary Tumor,PATIENT-074,39,Female,Alive,,3334,Stage IV,Positive,Positive,Positive
+TCGA-BRCA-TP-055,Tumor,Primary Tumor,PATIENT-075,78,Female,Dead,1642.0,1297,Stage III,Positive,Positive,Positive
+TCGA-BRCA-TP-056,Tumor,Primary Tumor,PATIENT-076,71,Female,Alive,,1545,Stage IV,Positive,Negative,Negative
+TCGA-BRCA-TP-057,Tumor,Primary Tumor,PATIENT-077,59,Female,Dead,1424.0,1255,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-058,Tumor,Primary Tumor,PATIENT-078,44,Female,Dead,1981.0,138,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-059,Tumor,Primary Tumor,PATIENT-079,42,Female,Dead,928.0,994,Stage III,Positive,Positive,Negative
+TCGA-BRCA-TP-060,Tumor,Primary Tumor,PATIENT-080,83,Female,Alive,,3580,Stage IV,Positive,Positive,Negative
+TCGA-BRCA-TP-061,Tumor,Primary Tumor,PATIENT-081,81,Female,Dead,1272.0,179,Stage II,Positive,Negative,Positive
+TCGA-BRCA-TP-062,Tumor,Primary Tumor,PATIENT-082,52,Female,Dead,2194.0,1356,Stage II,Negative,Positive,Negative
+TCGA-BRCA-TP-063,Tumor,Primary Tumor,PATIENT-083,57,Female,Alive,,3118,Stage II,Positive,Negative,Negative
+TCGA-BRCA-TP-064,Tumor,Primary Tumor,PATIENT-084,42,Female,Alive,,1245,Stage I,Negative,Negative,Negative
+TCGA-BRCA-TP-065,Tumor,Primary Tumor,PATIENT-085,75,Female,Alive,,839,Stage IV,Positive,Positive,Negative
+TCGA-BRCA-TP-066,Tumor,Primary Tumor,PATIENT-086,62,Female,Dead,1024.0,3056,Stage IV,Positive,Positive,Negative
+TCGA-BRCA-TP-067,Tumor,Primary Tumor,PATIENT-087,36,Female,Alive,,109,Stage IV,Negative,Negative,Negative
+TCGA-BRCA-TP-068,Tumor,Primary Tumor,PATIENT-088,35,Female,Alive,,2293,Stage IV,Negative,Positive,Positive
+TCGA-BRCA-TP-069,Tumor,Primary Tumor,PATIENT-089,61,Female,Dead,788.0,1584,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-070,Tumor,Primary Tumor,PATIENT-090,62,Female,Alive,,2100,Stage II,Positive,Positive,Positive
+TCGA-BRCA-TP-071,Tumor,Primary Tumor,PATIENT-091,44,Female,Dead,182.0,1268,Stage II,Positive,Negative,Negative
+TCGA-BRCA-TP-072,Tumor,Primary Tumor,PATIENT-092,35,Female,Alive,,980,Stage III,Positive,Positive,Negative
+TCGA-BRCA-TP-073,Tumor,Primary Tumor,PATIENT-093,37,Female,Alive,,3477,Stage IV,Positive,Positive,Positive
+TCGA-BRCA-TP-074,Tumor,Primary Tumor,PATIENT-094,82,Female,Alive,,2914,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-075,Tumor,Primary Tumor,PATIENT-095,72,Female,Alive,,863,Stage IV,Negative,Positive,Negative
+TCGA-BRCA-TP-076,Tumor,Primary Tumor,PATIENT-096,68,Female,Alive,,1431,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-077,Tumor,Primary Tumor,PATIENT-097,51,Female,Alive,,2280,Stage III,Positive,Negative,Negative
+TCGA-BRCA-TP-078,Tumor,Primary Tumor,PATIENT-098,39,Female,Alive,,2693,Stage III,Positive,Negative,Negative
+TCGA-BRCA-TP-079,Tumor,Primary Tumor,PATIENT-099,81,Female,Alive,,860,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-080,Tumor,Primary Tumor,PATIENT-100,38,Female,Alive,,1819,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-081,Tumor,Primary Tumor,PATIENT-101,53,Female,Alive,,1128,Stage II,Negative,Positive,Negative
+TCGA-BRCA-TP-082,Tumor,Primary Tumor,PATIENT-102,46,Female,Alive,,2493,Stage IV,Positive,Positive,Negative
+TCGA-BRCA-TP-083,Tumor,Primary Tumor,PATIENT-103,81,Female,Alive,,1244,Stage III,Positive,Positive,Negative
+TCGA-BRCA-TP-084,Tumor,Primary Tumor,PATIENT-104,70,Female,Alive,,1380,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-085,Tumor,Primary Tumor,PATIENT-105,48,Female,Dead,573.0,127,Stage II,Positive,Negative,Negative
+TCGA-BRCA-TP-086,Tumor,Primary Tumor,PATIENT-106,41,Female,Alive,,1126,Stage IV,Positive,Negative,Positive
+TCGA-BRCA-TP-087,Tumor,Primary Tumor,PATIENT-107,69,Female,Alive,,2006,Stage II,Positive,Positive,Positive
+TCGA-BRCA-TP-088,Tumor,Primary Tumor,PATIENT-108,73,Female,Alive,,2233,Stage II,Positive,Positive,Positive
+TCGA-BRCA-TP-089,Tumor,Primary Tumor,PATIENT-109,37,Female,Alive,,332,Stage II,Positive,Negative,Negative
+TCGA-BRCA-TP-090,Tumor,Primary Tumor,PATIENT-110,83,Female,Dead,1641.0,2839,Stage III,Positive,Positive,Negative
+TCGA-BRCA-TP-091,Tumor,Primary Tumor,PATIENT-111,67,Female,Alive,,1560,Stage I,Positive,Positive,Negative
+TCGA-BRCA-TP-092,Tumor,Primary Tumor,PATIENT-112,64,Female,Alive,,1730,Stage I,Positive,Positive,Positive
+TCGA-BRCA-TP-093,Tumor,Primary Tumor,PATIENT-113,58,Female,Alive,,1346,Stage IV,Negative,Positive,Positive
+TCGA-BRCA-TP-094,Tumor,Primary Tumor,PATIENT-114,64,Female,Dead,2121.0,1046,Stage III,Positive,Negative,Positive
+TCGA-BRCA-TP-095,Tumor,Primary Tumor,PATIENT-115,39,Female,Dead,2473.0,1533,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-096,Tumor,Primary Tumor,PATIENT-116,60,Female,Alive,,753,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-097,Tumor,Primary Tumor,PATIENT-117,67,Female,Alive,,1001,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-098,Tumor,Primary Tumor,PATIENT-118,36,Female,Alive,,1719,Stage II,Positive,Positive,Negative
+TCGA-BRCA-TP-099,Tumor,Primary Tumor,PATIENT-119,69,Female,Alive,,1218,Stage IV,Positive,Negative,Negative
+TCGA-BRCA-TP-100,Tumor,Primary Tumor,PATIENT-120,43,Female,Dead,1670.0,2660,Stage III,Negative,Negative,Positive
